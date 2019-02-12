@@ -17,7 +17,7 @@ cd SSR
 
 新版本安装：
 ```
-chmod +x /root/shadowsocks/*.sh
+chmod +x /root/SSR/*.sh
 
 bash shadowsocks_new.sh install
 
